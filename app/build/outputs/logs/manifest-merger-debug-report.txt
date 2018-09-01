@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3dc1281302faa72548530452b9de57ce\AndroidManifest.xml:2:1-11:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\c744e07f2f55479f5a79f490b1a474f3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2b47a844e65c8ca2a642ce03859aefd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e9d710cc43b6cd8f0a8c0b6e4d95f61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cef840fbd8af9d1cb11ed9457a8de4a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\95c96fb9b7b6d602367aa978c6ef6c87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\da71914aacf43a0a8d11beadfb785c95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e8724a79dd70321204b318e130377b1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9d570457e873d42b2f219903ced812f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\31aa0bcb4e85b5dab753e67a95d3cf75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f5ca10751586dfe82fafd107dd6e746d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b1d88feb538418a974e39dce102418a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\91098220f70a7c04308234ac90148f58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\75d50088b261614ecf7dd36fddaa3784\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\df87df3336fa5f4381e0087b70c92f59\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\280ab96a7ee2c042ff2275fe99d4a9d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\89863ad6f4851abf8b9c37d8a7dbd38a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d0212a07b9999be7073b87ddafa2781a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2cb5f2da2f6fae8ebaa273b442212a60\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:glEsVersion
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:7:9-32
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:13:22-78
+application
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3dc1281302faa72548530452b9de57ce\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3dc1281302faa72548530452b9de57ce\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:19:9-48
+	android:icon
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:21:9-40
+activity#mayank.com.echomusic.activties.SplashActivty
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:22:9-32:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:23:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:30:27-74
+activity#mayank.com.echomusic.activties.MainActivity
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:33:9-36:59
+	android:screenOrientation
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:34:13-71
+receiver#mayank.com.echomusic.utils.CaptureBroadcast
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:38:19-77
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL+action:name:android.intent.action.PHONE_STATE
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.PHONE_STATE
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:40:25-73
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml:41:25-79
+uses-sdk
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3dc1281302faa72548530452b9de57ce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3dc1281302faa72548530452b9de57ce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\c744e07f2f55479f5a79f490b1a474f3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\c744e07f2f55479f5a79f490b1a474f3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2b47a844e65c8ca2a642ce03859aefd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2b47a844e65c8ca2a642ce03859aefd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e9d710cc43b6cd8f0a8c0b6e4d95f61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e9d710cc43b6cd8f0a8c0b6e4d95f61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cef840fbd8af9d1cb11ed9457a8de4a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cef840fbd8af9d1cb11ed9457a8de4a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\95c96fb9b7b6d602367aa978c6ef6c87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\95c96fb9b7b6d602367aa978c6ef6c87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\da71914aacf43a0a8d11beadfb785c95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\da71914aacf43a0a8d11beadfb785c95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e8724a79dd70321204b318e130377b1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e8724a79dd70321204b318e130377b1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9d570457e873d42b2f219903ced812f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9d570457e873d42b2f219903ced812f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\31aa0bcb4e85b5dab753e67a95d3cf75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\31aa0bcb4e85b5dab753e67a95d3cf75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f5ca10751586dfe82fafd107dd6e746d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f5ca10751586dfe82fafd107dd6e746d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b1d88feb538418a974e39dce102418a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b1d88feb538418a974e39dce102418a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\91098220f70a7c04308234ac90148f58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\91098220f70a7c04308234ac90148f58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\75d50088b261614ecf7dd36fddaa3784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\75d50088b261614ecf7dd36fddaa3784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\df87df3336fa5f4381e0087b70c92f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\df87df3336fa5f4381e0087b70c92f59\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\280ab96a7ee2c042ff2275fe99d4a9d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\280ab96a7ee2c042ff2275fe99d4a9d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\89863ad6f4851abf8b9c37d8a7dbd38a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\89863ad6f4851abf8b9c37d8a7dbd38a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d0212a07b9999be7073b87ddafa2781a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d0212a07b9999be7073b87ddafa2781a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2cb5f2da2f6fae8ebaa273b442212a60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2cb5f2da2f6fae8ebaa273b442212a60\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Echo\app\src\main\AndroidManifest.xml
