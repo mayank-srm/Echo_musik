@@ -12,4 +12,6 @@
     <string name="title_section2">Section 2</string>
     <string name="title_section3">Section 3</string>
     <string name="action_example">Example action</string>
+    <string name="app_version_1_0">App version: 1.0</string>
+    <string name="todo">TODO</string>
 </resources>
