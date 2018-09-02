@@ -1,15 +1,19 @@
 package mayank.com.echomusic.activties
 
 import android.Manifest
+import android.annotation.TargetApi
 import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
+import android.os.Build
 import android.os.Bundle
 import android.os.Handler
+import android.support.annotation.RequiresApi
 import android.support.v4.app.ActivityCompat
 import android.support.v7.app.AppCompatActivity
 import android.widget.Toast
 import mayank.com.echomusic.R
+@TargetApi(Build.VERSION_CODES.JELLY_BEAN)
 /**
  * Created by MAYANK on 24/6/2018.
  */
@@ -20,6 +24,7 @@ class SplashActivty : AppCompatActivity() {
     }
 
 
+    @RequiresApi(Build.VERSION_CODES.JELLY_BEAN)
     var permissionsString = arrayOf(Manifest.permission.READ_EXTERNAL_STORAGE,
             Manifest.permission.MODIFY_AUDIO_SETTINGS,
             Manifest.permission.READ_PHONE_STATE,
