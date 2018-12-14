@@ -1,13 +1,10 @@
-#Sat Sep 01 22:22:02 IST 2018
-path.3=classes.dex
+#Fri Dec 14 20:40:04 IST 2018
 path.2=classes.dex
 path.1=classes.dex
 path.0=classes.dex
-renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=C\:\\Users\\HP\\Desktop\\Echo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.2=C\:\\Users\\HP\\Desktop\\Echo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.1=C\:\\Users\\HP\\Desktop\\Echo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.0=C\:\\Users\\HP\\Desktop\\Echo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.2=C\:\\Users\\HP\\Desktop\\Epic_musik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.1=C\:\\Users\\HP\\Desktop\\Epic_musik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+base.0=C\:\\Users\\HP\\Desktop\\Epic_musik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1

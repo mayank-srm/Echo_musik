@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#fff"
@@ -25,7 +27,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignTop="@+id/shaketochange"
         android:layout_marginRight="16dp"
-        android:backgroundTint="#212121" />
+        android:backgroundTint="#51ff00" />
 
     <TextView
         android:layout_width="match_parent"

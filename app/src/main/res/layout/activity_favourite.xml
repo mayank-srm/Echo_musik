@@ -8,7 +8,7 @@
 
     <fragment
         android:id="@+id/details_fav_fragment"
-        class="mayank.com.echomusic.fragments.FavouriteFragment"
+        class="mayank.com.epicmusik.fragments.FavouriteFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/appBarLayout" />
